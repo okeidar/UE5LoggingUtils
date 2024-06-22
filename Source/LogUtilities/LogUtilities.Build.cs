@@ -2,7 +2,7 @@
 
 using UnrealBuildTool;
 
-public class LogUtilities : ModuleRules
+public  class LogUtilities : ModuleRules
 {
 	public LogUtilities(ReadOnlyTargetRules Target) : base(Target)
 	{

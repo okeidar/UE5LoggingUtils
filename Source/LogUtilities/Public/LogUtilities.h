@@ -5,7 +5,7 @@
 #include "CoreMinimal.h"
 #include "Modules/ModuleManager.h"
 
-class FLogUtilitiesModule : public IModuleInterface
+class LOGUTILITIES_API FLogUtilitiesModule : public IModuleInterface
 {
 public:
 
